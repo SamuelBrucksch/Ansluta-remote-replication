@@ -24,3 +24,4 @@ public enum AnslutaCommand {
         this.description = description;
     }
 }
+
